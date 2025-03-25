@@ -52,6 +52,6 @@ This repository contains practicals related to IoT and Robotics ( Arduino, Raspb
 3. Follow  guides to set up and run the experiments.
 
 
-**Author:** Swaraj Mohite
-**GitHub:** https://github.com/SwarajMohite
+**Author:** Swaraj Mohite <br>
+**GitHub:** https://github.com/SwarajMohite <br>
 **Contact:** swarajmohite16@gmail.com
